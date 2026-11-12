@@ -34,8 +34,8 @@ def main():
     #packages needed to install
     required_packages = [
         "pycomm3",
-        "xmltodict"
-        "pyray"
+        "xmltodict",
+        "raylib"
     ]
 
     for pkg in required_packages:
