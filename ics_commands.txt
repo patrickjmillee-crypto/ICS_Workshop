@@ -1,0 +1,6 @@
+sudo "$VIRTUAL_ENV/bin/python" recon.py
+
+sudo ~/.venv/bin/python recon.py
+
+use this to run the recon and the dashboard_2 script 
+**HEADS UP THE RECON SCRIPT WILL TAKE SOME TIME**
